@@ -1,4 +1,4 @@
-# Project -title
+# MFU Data Warehouse
 
 The university generates a lot of data to efficiently manage operations across various organizations. However, this data is dispersed among organizations, leading to usage restrictions. \
   \
