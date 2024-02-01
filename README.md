@@ -2,9 +2,9 @@
 explain your project here
 ## Members
 
-6431503002 Kitsanapong Warit
-6431503026 Thaweesap Saibua
-6431503108 Sunisa Kongnarong
+6431503002 Kitsanapong Warit\
+6431503026 Thaweesap Saibua\
+6431503108 Sunisa Kongnarong\
 6431503116 Chuming Lin
 
 ## Instruction
