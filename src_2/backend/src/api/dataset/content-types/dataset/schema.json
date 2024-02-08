@@ -1,0 +1,70 @@
+{
+  "kind": "collectionType",
+  "collectionName": "datasets",
+  "info": {
+    "singularName": "dataset",
+    "pluralName": "datasets",
+    "displayName": "Dataset",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "detailed_information": {
+      "type": "text",
+      "default": "-"
+    },
+    "visibility": {
+      "type": "boolean",
+      "default": false
+    },
+    "objective": {
+      "type": "string",
+      "default": "-"
+    },
+    "data_source": {
+      "type": "string",
+      "default": "-"
+    },
+    "terms_and_conditions_for_accessing_information": {
+      "type": "string",
+      "default": "-"
+    },
+    "license_agreement": {
+      "type": "string",
+      "default": "-"
+    },
+    "sponsor_or_co_operator": {
+      "type": "string",
+      "default": "-"
+    },
+    "lowest_subunit_of_data_storage": {
+      "type": "string",
+      "default": "-"
+    },
+    "high_value_dataset": {
+      "type": "string",
+      "default": "-",
+      "required": false
+    },
+    "dataset_tags": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::dataset-tag.dataset-tag",
+      "mappedBy": "dataset_id"
+    },
+    "dataset_files": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::dataset-file.dataset-file",
+      "mappedBy": "dataset"
+    }
+  }
+}
