@@ -5,6 +5,8 @@
 6431503108 Sunisa Kongnarong >> Tester    
 6431503116 Chuming Lin >> Tester    
 
+https://www.figma.com/file/Id51EpiMUkXSouZXer0BSn/Data-Warehouse?type=design&node-id=455%3A134&mode=design&t=EfwlzX9sq9WZNQ8i-1
+
 # FrontEnd
 - UI Display website.      
 - Dataset Catalog: Browse and search through a catalog of available datasets.  
