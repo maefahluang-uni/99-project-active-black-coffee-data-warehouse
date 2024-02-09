@@ -10,6 +10,13 @@ Mae Fah Luang University is a leading educational institution in Thailand, known
 6431503108 Sunisa Kongnarong\
 6431503116 Chuming Lin
 
+## Objective of the Study      
+Our project is all about creating a website for Mae Fah Luang University. We're building a center where everyone can easily find, store, and share all kinds of university-related info. Here's the plan:
+- Identify the types and sources of data that exist within Mae Fah Luang University
+- Develop a data center website that organizes all data in one place. It can be downloaded in various formats such as CSV, Excel, or API to further achieve your goals.
+- Ensure Privacy and Security: Management of access to data according to defined levels                                                                                   
+
+
 ## Instruction
 You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:
 - Edit readme file that briefly explains your project and details of members.​ success
