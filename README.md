@@ -20,7 +20,7 @@ Our project is all about creating a website for Mae Fah Luang University. We're 
                                                                               
 ## Main Feature  
 - Dataset Catalog: Browse and search through a catalog of available datasets.  
-- Data Visualization: Visualize datasets using interactive Charts and tables similar to Excel.  
+- Data Visualization: Visualize datasets using an interactive table similar to Excel.
 - Download: Download datasets in various formats for analysis and research.  
 
 ## Instruction
