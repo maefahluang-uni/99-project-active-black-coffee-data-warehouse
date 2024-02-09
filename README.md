@@ -5,7 +5,7 @@ Mae Fah Luang University is a leading educational institution in Thailand, known
 
 ## Members
 
-6431503002 Kitsanapong Warit  >> Senior developer     
+6431503002 Kitsanapong Warit  >> Senior developer / DevOps     
 6431503026 Thaweesap Saibua   >> Software Tester / UXUI Designer    
 6431503108 Sunisa Kongnarong  >> Project manager  
 6431503116 Chuming Lin        >> CEO  
