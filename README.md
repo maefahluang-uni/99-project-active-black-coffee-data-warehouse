@@ -9,8 +9,8 @@ https://www.seki-code.com/
 
 6431503002 Kitsanapong Warit  >> Senior developer / DevOps     
 6431503026 Thaweesap Saibua   >> Software Tester / UXUI Designer    
-6431503108 Sunisa Kongnarong  >> Project manager  
-6431503116 Chuming Lin        >> CEO  
+6431503108 Sunisa Kongnarong  >> Project manager / proposal / Document     
+6431503116 Chuming Lin        >> proposal / Document   
 
 ## Objective of the Study      
 Our project is all about creating a website for Mae Fah Luang University. We're building a center where everyone can easily find, store, and share all kinds of university-related info. Here's the plan:
